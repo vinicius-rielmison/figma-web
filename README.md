@@ -22,13 +22,13 @@ Insira aqui os prints exportados do Figma:
 ## 📌 2. Prints das Páginas Desenvolvidas em HTML/CSS
 
 ### 🏠 Página Inicial (Site)
-![Site - Home](img/site_index.png)
+![Site - Home](img/figma-html-1.jpg)
 
 ### 📄 Página de Detalhes (Site)
-![Site - Detalhes](img/site_detalhes.png)
+![Site - Detalhes](img/figma-html-2.jpg)
 
 ### ✉ Página de Contato (Site)
-![Site - Contato](img/site_contato.png)
+![Site - Contato](img/figma-html-3.jpg)
 
 ---
 
