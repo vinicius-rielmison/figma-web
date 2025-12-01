@@ -69,7 +69,13 @@ Nenhuma diferença que prejudique o design final.
 
 ## 📌 6. Estrutura de Pastas (Exigida no Projeto)
 
-
+```
+|-- index.html
+|-- css/
+|     └── style.css
+|-- img/
+      └── (imagens usadas no site)
+```
 
 
 
