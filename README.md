@@ -12,7 +12,7 @@ Insira aqui os prints exportados do Figma:
 ![Protótipo Figma - Home](img/fugima-1.jpg)
 
 ### 📄 Página de Detalhes (Figma)
-![Protótipo Figma - Detalhes](img/figma-2.png)
+![Protótipo Figma - Detalhes](img/figima-2.jpg)
 
 ### ✉ Página de Contato (Figma)
 ![Protótipo Figma - Contato](img/figma-3.png)
