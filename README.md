@@ -9,13 +9,13 @@ Este repositório contém a implementação completa do protótipo desenvolvido 
 Insira aqui os prints exportados do Figma:
 
 ### 🏠 Página Inicial (Figma)
-![Protótipo Figma - Home](img/figma_index.png)
+![Protótipo Figma - Home](img/figma-.png)
 
 ### 📄 Página de Detalhes (Figma)
-![Protótipo Figma - Detalhes](img/figma_detalhes.png)
+![Protótipo Figma - Detalhes](img/figma-2.png)
 
 ### ✉ Página de Contato (Figma)
-![Protótipo Figma - Contato](img/figma_contato.png)
+![Protótipo Figma - Contato](img/figma-3.png)
 
 ---
 
